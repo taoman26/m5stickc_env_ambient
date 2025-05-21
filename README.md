@@ -1,5 +1,7 @@
 # M5StickCとAmbientによる環境センサーの視覚化プログラム
 
+本プログラムはAmbient公式の[M5StickCで小型環境センサ端末を作る](https://ambidata.io/samples/m5stack/m5sitckc/)からソースコードを流用しています。
+
 ## 用意するもの
 - M5StickC
     - Plusではなく初代StickCです
@@ -45,6 +47,8 @@
     - 18行目のyour_passwordを適切なパスフレーズに変更
     - 20行目のCHANNEL_IDを控えておいたチャンネルIDに変更
     - 21行目のWRITE_KEYを控えておいたライトキーに変更
+- プログラム自体はAmbient公式のサンプルプログラムを流用しています
+    - [M5StickCで小型環境センサ端末を作る](https://ambidata.io/samples/m5stack/m5sitckc/)
 
 ### 書き込み
 
